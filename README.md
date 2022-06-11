@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+
+[![DaiDuong1993](https://circleci.com/gh/DaiDuong1993/project-ml-microservice-kubernetes.svg?style=svg)](<LINK>)
+
 
 ## Project Overview
 
